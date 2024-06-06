@@ -2,4 +2,5 @@
 
 This is a repo for machine learning
 
-Week 1 and 11 are uploaded
+Week 1,11 and 10 are uploaded
+
